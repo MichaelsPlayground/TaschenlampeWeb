@@ -10,8 +10,8 @@
         android:id="@+id/onOffFlashlight"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textOn="Turn Off"
-        android:textOff="Turn On"
+        android:textOn="\n\n \n    Taschenlampe   \n \nAUS\n \n"
+        android:textOff="\n\n \n    Taschenlampe   \n \nAN\n \n"
         android:checked="false"
         android:text="Turn On/Off Camera LED/ Flashlight Android"
 
